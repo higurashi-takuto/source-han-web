@@ -1,0 +1,102 @@
+/************
+  Reset
+************/
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-family: 'Sans', sans-serif;
+  font-weight: 400;
+  color: #000;
+  font-size: 100%;
+  text-align: left;
+  vertical-align: baseline;
+  background:transparent;
+}
+body {
+  line-height: 1.5;
+}
+h1 {font-size: 300%;}
+h2 {font-size: 250%;}
+h3 {font-size: 225%;}
+h4 {font-size: 200%;}
+h5 {font-size: 150%;}
+h6 {font-size: 125%;}
+p {font-size: 100%;}
+a {text-decoration: none;}
+img {width: 100%;}
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+hr {
+  border-top: 1px solid #000;
+}
+
+
+
+/************
+  Fonts
+************/
+.EL {font-weight: 100;}
+.R {font-weight: 400;}
+.H {font-weight: 900;}
+.sans {font-family: 'Sans';}
+.serif {font-family: 'Serif';}
+.rounded {font-family: 'Rounded';}
+.indent1 {margin-left: 32px;}
+.indent2 {margin-left: 64px;}
+.indent3 {margin-left: 96px;}
+.indent4 {margin-left: 128px;}
+.center {text-align: center;}
+
+
+
+/************
+  Grid
+************/
+.container {
+  max-width: 1200px;
+  margin: 0 auto; 
+}
+.row {
+  padding-bottom: 0em;
+}
+.col { 
+  display: block;
+  float: left;
+  width: 100%;
+}
+.container:after,
+.row:after, 
+.col:after { 
+  content: ""; 
+  display: table; 
+  clear: both; 
+}
+@media (min-width : 480px) {
+  .col {margin-left: 2%;}
+  .col:first-child {margin-left: 0;}
+  .grid1 {width: 6.5%;}
+  .grid2 {width: 15.0%;}
+  .grid3 {width: 23.5%;}
+  .grid4 {width: 32.0%;}
+  .grid5 {width: 40.5%;}
+  .grid6 {width: 49.0%;}
+  .grid7 {width: 57.5%;}
+  .grid8 {width: 66.0%;}
+  .grid9 {width: 74.5%;}
+  .grid10 {width: 83.0%;}
+  .grid11 {width: 91.5%;}
+  .grid12 {width: 100%;}
+}
+
+
+
+/************
+  Customized
+************/
+.margin16 {margin: 16px 0px;}
+.margin32 {margin: 32px 0px;}

@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Sans';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts/sans/EL.woff2) format('woff2'),
+       url(../fonts/sans/EL.woff) format('woff'),
+       url(../fonts/sans/EL.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/sans/R.woff2) format('woff2'),
+       url(../fonts/sans/R.woff) format('woff'),
+       url(../fonts/sans/R.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Sans';
+  font-style: normal;
+  font-weight: 900;
+  src: url(../fonts/sans/H.woff2) format('woff2'),
+       url(../fonts/sans/H.woff) format('woff'),
+       url(../fonts/sans/H.otf) format('opentype');
+}

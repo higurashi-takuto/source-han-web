@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Serif';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts/serif/EL.woff2) format('woff2'),
+       url(../fonts/serif/EL.woff) format('woff'),
+       url(../fonts/serif/EL.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/serif/R.woff2) format('woff2'),
+       url(../fonts/serif/R.woff) format('woff'),
+       url(../fonts/serif/R.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Serif';
+  font-style: normal;
+  font-weight: 900;
+  src: url(../fonts/serif/H.woff2) format('woff2'),
+       url(../fonts/serif/H.woff) format('woff'),
+       url(../fonts/serif/H.otf) format('opentype');
+}

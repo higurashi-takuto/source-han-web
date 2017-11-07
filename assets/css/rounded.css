@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Rounded';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts/rounded/EL.woff2) format('woff2'),
+       url(../fonts/rounded/EL.woff) format('woff'),
+       url(../fonts/rounded/EL.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rounded';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/rounded/R.woff2) format('woff2'),
+       url(../fonts/rounded/R.woff) format('woff'),
+       url(../fonts/rounded/R.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rounded';
+  font-style: normal;
+  font-weight: 900;
+  src: url(../fonts/rounded/H.woff2) format('woff2'),
+       url(../fonts/rounded/H.woff) format('woff'),
+       url(../fonts/rounded/H.ttf) format('truetype');
+}
