@@ -4,7 +4,7 @@ assets/css - CSSが入ってます。
 assets/fonts - フォントが入っています。  
   
 ### サンプル
-[https://higurashi-takuto.github.io/source_han_web/](https://higurashi-takuto.github.io/source_han_web/)  
+[https://higurashi-takuto.github.io/source-han-web/](https://higurashi-takuto.github.io/source-han-web/)  
   
 ### フォントの種類(CSS)
 • 源ノ角ゴシック(Sans) - ExtraLight(100), Regular(400), Heavy(900)  
