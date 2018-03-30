@@ -15,5 +15,4 @@ assets/fonts - フォントが入っています。
 ひらがな・カタカナ・アルファベット・記号・漢字(JIS第1,2水準漢字)  
   
 ### ライセンス
-SIL Open Font License 1.1  
-(フォントを含む)
+SIL Open Font License 1.1
