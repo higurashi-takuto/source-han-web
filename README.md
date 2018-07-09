@@ -1,7 +1,8 @@
 # Source Han Web
 Webフォントを簡単使うためのアセットです。  
 assets/css - CSSが入ってます。  
-assets/fonts - フォントが入っています。  
+assets/fonts - フォントが入っています。   
+Subsetter/* - フォントを好きな文字でサブセット化するプログラムです。 
   
 ### サンプル
 [https://higurashi-takuto.github.io/source-han-web/](https://higurashi-takuto.github.io/source-han-web/)  
@@ -16,3 +17,6 @@ assets/fonts - フォントが入っています。
   
 ### ライセンス
 SIL Open Font License 1.1
+
+## Subsetter
+フォントを好きな文字でサブセット化することができます。

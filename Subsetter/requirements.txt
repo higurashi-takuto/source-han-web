@@ -1,0 +1,10 @@
+altgraph==0.15
+beautifulsoup4==4.6.0
+Brotli==1.0.4
+fonttools==3.28.0
+macholib==1.9
+modulegraph==0.16
+py2app==0.14
+Pypubsub==4.0.0
+six==1.11.0
+wxPython==4.0.3
